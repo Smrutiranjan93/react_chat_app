@@ -1,0 +1,43 @@
+{
+  "employee": [
+    {
+      "id": "1",
+      "name": "Smruti Ranjan Rout",
+      "email": "smruti@gmail.com",
+      "phone": "8917288085"
+    },
+    {
+      "name": "Virat_Kohli",
+      "email": "virat@in.com",
+      "phone": "8917288089",
+      "active": true,
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "name": "Jangu",
+      "email": "robert@in.com",
+      "phone": "908908767"
+    },
+    {
+      "id": "4",
+      "name": "Kane Williamson",
+      "email": "kw@in.com",
+      "phone": "908908767"
+    },
+    {
+      "id": "6",
+      "name": "Rahu Dravid",
+      "email": "dravid@gmail.com",
+      "phone": "987767657",
+      "active": true
+    },
+    {
+      "id": "7",
+      "name": "Jitesh Das",
+      "email": "jitesh@gmail.com",
+      "phone": "7008987666",
+      "active": true
+    }
+  ]
+}
